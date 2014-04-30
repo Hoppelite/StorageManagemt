@@ -1,0 +1,3 @@
+\\adfsstud2\r-u\sjr0379\documents\visual studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+\\adfsstud2\r-u\sjr0379\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+H:\2014\PR283\Assignment\StorageManagemt\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
